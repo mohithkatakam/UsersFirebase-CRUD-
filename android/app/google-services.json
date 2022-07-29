@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520644901244",
+    "project_id": "bookingslots-3c82c",
+    "storage_bucket": "bookingslots-3c82c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520644901244:android:4349e8568c78e03dc4ccf9",
+        "android_client_info": {
+          "package_name": "com.bookingslots.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520644901244-4qhtg16871nn5ohkapk2irr6jr3qop4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY5CS64FbY0IEdMdywvNDE_ulavgV9jvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520644901244-4qhtg16871nn5ohkapk2irr6jr3qop4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
